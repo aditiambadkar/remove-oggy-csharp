@@ -1,4 +1,4 @@
-# Collections Exercise
+Collections Exercise
 
 Intention
 
