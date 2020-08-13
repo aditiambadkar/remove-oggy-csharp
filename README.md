@@ -1,6 +1,9 @@
 # Collections Exercise
 
-Intention
+# Intention
+
 This program intends to remove strings containing 'oggy' from a list of strings.
-Method
+
+# Method
+
 Converted Collection names to List using To List function.
