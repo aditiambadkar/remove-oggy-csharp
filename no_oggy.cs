@@ -8,7 +8,7 @@ class NoOggyChecker
   {
     foreach (var name in names.ToList())
     {
-        if(name.StartsWith("oggy")) {
+        if(name.Contains("oggy")) {
             Console.WriteLine($"Need to remove {name}!!");
             names.Remove(name);
         }
